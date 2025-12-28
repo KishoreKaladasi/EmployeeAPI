@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Employee.Domain/bin/Debug/net8.0
+/Employee.Domain/obj
+/Employee.Infrastructure/bin/Debug/net8.0
+/Employee.Infrastructure/obj
+/EmployeesAPI/bin/Debug/net8.0
+/EmployeesAPI/obj
